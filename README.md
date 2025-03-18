@@ -26,4 +26,11 @@ The goal of this project is to use Python and various libraries (like **MoviePy*
 To install the required libraries, run:
 
 ```bash
-pip install pillow gtts moviepy 
+pip install pillow gtts moviepy
+
+To Run the assignmet run:
+
+```bash
+myenv\Scripts\activate
+python script.py
+
